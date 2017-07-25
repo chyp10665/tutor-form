@@ -1,0 +1,101 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: '微軟正黑體',SimHei,'PingFang TC','PingFang SC';
+    background-color:#6b6b6b;
+    text-decoration: none;
+    font-size:1em;
+}
+
+a{
+    text-decoration: none;
+}
+.container{
+    padding:10px;
+}
+.size{
+    height:500px;
+    width:360px;
+    display: block;
+    margin:0px auto;
+    border:1xp solid #777;
+    background-color:#fff;
+    background-image:url("background.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
+ 
+.tel{
+    text-align:right;
+     padding:2px 5px;
+     font-size:0.8em;
+     background-color:#fff;
+}
+
+
+.navbar-inverse{
+    height: auto;
+  /*  background-color:#f7f7f7;*/
+}
+.navbar-brand{
+    width:33%;
+    display:inline-block;
+    padding:5px;
+}
+
+.navbar-brand img{
+    width:100%;
+}
+
+.navbar-collapse{
+    width:65%;
+    display:inline-block;
+    text-align: center;
+    vertical-align:top;
+}
+.navbar-collapse img{
+   margin:0px auto;
+   width:100%;
+   padding-top:5px;
+}
+
+footer {
+    position: relative;
+    bottom: 0px;
+    padding: 10px;
+    width: 135px;
+    font-size: 0.9em;
+    text-align: center;
+    background-color: rgba(255,255,255,0.7);
+    border-radius: 10px;
+    margin: 180px 15px;
+    border: 1px solid #ddd;
+}
+
+.form{
+    padding:5px 3px;
+    width:100%;
+
+}
+
+.form>div{
+    margin:5px;
+    background-color:rgba(220, 220, 220, 0.3);
+    border:1px inset #c7c7c7;
+    width:100px;
+    padding:2px 10px;    
+}
+.form> div span{
+    width:30%;
+    text-align:center;display:inline-block;
+}
+button{
+    background-color:White;
+    border:1px solid #ddd;
+    font-size:1em;
+    margin:0px auto;
+    font-family: '微軟正黑體',SimHei,'PingFang TC','PingFang SC';
+
+}

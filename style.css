@@ -69,10 +69,10 @@ footer {
     font-size: 1.8em;
     text-align: center;
     border-radius: 10px;
-    margin: 250px 15px;
+    margin-top:250px;
+    margin-left:15px;
     border: 1px solid #ddd;
 }
-
 .form{
     padding:5px 3px;
     width:100%;

@@ -68,10 +68,8 @@ footer {
     width: 135px;
     font-size: 1.8em;
     text-align: center;
-    border-radius: 10px;
     margin-top:250px;
     margin-left:15px;
-    border: 1px solid #ddd;
 }
 .form{
     padding:5px 3px;
@@ -96,5 +94,4 @@ button{
     font-size:1em;
     margin:0px auto;
     font-family: '微軟正黑體',SimHei,'PingFang TC','PingFang SC';
-
 }

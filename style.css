@@ -24,7 +24,7 @@ a{
     background-image:url("background.png");
     background-size:cover;
     background-repeat: no-repeat;
-
+    position:relative;
 }
  
 .tel{
@@ -62,12 +62,12 @@ a{
 }
 
 footer {
-    position: relative;
+    position: absolute;
     bottom: 0px;
     padding: 10px;
     text-align: center;
-    margin-top:250px;
-    margin-left:15px;
+    width: 100%;
+    background-color: #ddd;
 }
 .form{
     padding:5px 3px;
@@ -87,11 +87,7 @@ footer {
     text-align:center;display:inline-block;
 }
 button{
-    background-color:White;
-    border:1px solid #ddd;
-    font-size:1.2em;
+    font-size:1.1em;
     margin:0px auto;
-    padding:10px;
-    border-radius:8px
     font-family: '微軟正黑體',SimHei,'PingFang TC','PingFang SC';
 }

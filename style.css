@@ -73,3 +73,12 @@ footer {
     letter-sapcing:3px;
     background-color:#dc3909;
 }
+
+footer a{
+    color:#FFF;
+}
+
+footer a:hover{
+    color:#f4f5ea;
+}
+

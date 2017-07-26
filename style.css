@@ -25,6 +25,7 @@ a{
     background-size:cover;
     background-repeat: no-repeat;
     position:relative;
+    over-flow:hidden
 }
  
 .tel{
@@ -67,8 +68,9 @@ footer {
     padding: 10px;
     text-align: center;
     width: 100%;
-    background-color: #ddd;
+    background-color:#dc3909;
 }
+
 .form{
     padding:5px 3px;
     width:100%;

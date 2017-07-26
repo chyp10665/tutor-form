@@ -65,13 +65,13 @@ a{
 footer {
     position: absolute;
     bottom: 0px;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
     width: 100%;
-    font-size:1.4em;
-    color:#FFF;
-    letter-sapcing:3px;
-    background-color:#dc3909;
+    font-size: 1.6em;
+    color: #FFF;
+    letter-spacing: 3px;
+    background-color: #dc3909;
 }
 
 footer a{

@@ -65,31 +65,11 @@ a{
 footer {
     position: absolute;
     bottom: 0px;
-    padding: 10px;
+    padding: 20px;
     text-align: center;
     width: 100%;
+    font-size:1.4em;
+    color:#FFF;
+    letter-sapcing:3px;
     background-color:#dc3909;
-}
-
-.form{
-    padding:5px 3px;
-    width:100%;
-
-}
-
-.form>div{
-    margin:5px;
-    background-color:rgba(220, 220, 220, 0.3);
-    border:1px inset #c7c7c7;
-    width:100px;
-    padding:2px 10px;    
-}
-.form> div span{
-    width:30%;
-    text-align:center;display:inline-block;
-}
-button{
-    font-size:1.1em;
-    margin:0px auto;
-    font-family: '微軟正黑體',SimHei,'PingFang TC','PingFang SC';
 }
